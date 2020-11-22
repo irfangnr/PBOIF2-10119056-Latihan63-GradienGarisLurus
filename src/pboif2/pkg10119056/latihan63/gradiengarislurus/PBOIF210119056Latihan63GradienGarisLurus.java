@@ -6,8 +6,11 @@
 package pboif2.pkg10119056.latihan63.gradiengarislurus;
 
 /**
- *
  * @author ACER
+ * NAMA     : Irfan Ginanjar
+ * KELAS    : PBOIF2
+ * NIM      : 10119056
+ * Deskripsi Program: Program ini berisi program untuk menampilkan Handphone
  */
 public class PBOIF210119056Latihan63GradienGarisLurus {
 
